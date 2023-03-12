@@ -1,0 +1,11 @@
+function onCreate()
+makeLuaSprite('sky','exe/apollyon/Sky',-705,-410)
+addLuaSprite('sky',false)
+makeLuaSprite('ground','exe/apollyon/Ground',-500, -210)
+addLuaSprite('ground',false)
+makeAnimatedLuaSprite('waterfalls','exe/apollyon/Waterfalls',1575, 690)addAnimationByPrefix('waterfalls', 'idle','waterfalls',60,true)
+objectPlayAnimation('waterfalls','idle',false)
+addLuaSprite('waterfalls',false)
+makeLuaSprite('mountains','exe/apollyon/Mountains',-855, -180)
+addLuaSprite('mountains',true)
+end

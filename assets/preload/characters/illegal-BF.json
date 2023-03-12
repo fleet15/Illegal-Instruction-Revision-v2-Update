@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				251,
+				377
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Tails-BF Up"
+		},
+		{
+			"offsets": [
+				92,
+				173
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Tails-BF Right"
+		},
+		{
+			"offsets": [
+				262,
+				214
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Tails-BF Left"
+		},
+		{
+			"offsets": [
+				190,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Tails-BF Down"
+		},
+		{
+			"offsets": [
+				211,
+				232
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Tails-BF MissU"
+		},
+		{
+			"offsets": [
+				210,
+				240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Tails-BF MissR"
+		},
+		{
+			"offsets": [
+				220,
+				224
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Tails-BF MissL"
+		},
+		{
+			"offsets": [
+				255,
+				213
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Tails-BF MissD"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				376,
+				300
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Tails-BF Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tails-BF",
+	"position": [
+		50,
+		360
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		520,
+		-590
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

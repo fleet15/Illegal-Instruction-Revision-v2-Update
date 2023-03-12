@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Apollyon_p1_sprites.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Apollyon Fake Down0000" x="0" y="0" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Down0001" x="0" y="0" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Down0002" x="0" y="0" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Down0003" x="188" y="0" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Down0004" x="188" y="0" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Down0005" x="188" y="0" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Down0006" x="188" y="0" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Down0007" x="188" y="0" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Down0008" x="188" y="0" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Down0009" x="188" y="0" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Down0010" x="188" y="0" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Idle0000" x="376" y="0" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Idle0001" x="376" y="0" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Idle0002" x="376" y="0" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Idle0003" x="564" y="0" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Idle0004" x="564" y="0" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Idle0005" x="564" y="0" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Idle0006" x="752" y="0" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Idle0007" x="752" y="0" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Idle0008" x="752" y="0" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Idle0009" x="0" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Idle0010" x="0" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Idle0011" x="0" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Idle0012" x="0" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Idle0013" x="0" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Idle0014" x="0" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Idle0015" x="0" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Idle0016" x="0" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Idle0017" x="0" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Idle0018" x="0" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Idle0019" x="0" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Idle0020" x="0" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Idle0021" x="0" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Left0000" x="188" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Left0001" x="188" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Left0002" x="188" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Left0003" x="376" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Left0004" x="376" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Left0005" x="376" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Left0006" x="376" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Left0007" x="376" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Left0008" x="376" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Left0009" x="376" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Left0010" x="376" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Right0000" x="564" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Right0001" x="564" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Right0002" x="564" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Right0003" x="752" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Right0004" x="752" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Right0005" x="752" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Right0006" x="752" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Right0007" x="752" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Right0008" x="752" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Right0009" x="752" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Right0010" x="752" y="220" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Up0000" x="0" y="440" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Up0001" x="0" y="440" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Up0002" x="0" y="440" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Up0003" x="188" y="440" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Up0004" x="188" y="440" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Up0005" x="188" y="440" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Up0006" x="188" y="440" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Up0007" x="188" y="440" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Up0008" x="188" y="440" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Up0009" x="188" y="440" width="188" height="220"/>
+	<SubTexture name="Apollyon Fake Up0010" x="188" y="440" width="188" height="220"/>
+	<SubTexture name="Apollyon Transform0000" x="376" y="440" width="188" height="220"/>
+	<SubTexture name="Apollyon Transform0001" x="564" y="440" width="188" height="220"/>
+	<SubTexture name="Apollyon Transform0002" x="752" y="440" width="188" height="220"/>
+	<SubTexture name="Apollyon Transform0003" x="0" y="660" width="188" height="220"/>
+	<SubTexture name="Apollyon Transform0004" x="188" y="660" width="188" height="220"/>
+	<SubTexture name="Apollyon Transform0005" x="188" y="660" width="188" height="220"/>
+	<SubTexture name="Apollyon Transform0006" x="188" y="660" width="188" height="220"/>
+	<SubTexture name="Apollyon Transform0007" x="188" y="660" width="188" height="220"/>
+	<SubTexture name="Apollyon Transform0008" x="188" y="660" width="188" height="220"/>
+	<SubTexture name="Apollyon Transform0009" x="188" y="660" width="188" height="220"/>
+	<SubTexture name="Apollyon Transform0010" x="188" y="660" width="188" height="220"/>
+	<SubTexture name="Apollyon Transform0011" x="188" y="660" width="188" height="220"/>
+	<SubTexture name="Apollyon Transform0012" x="188" y="660" width="188" height="220"/>
+	<SubTexture name="Apollyon Transform0013" x="188" y="660" width="188" height="220"/>
+	<SubTexture name="Apollyon Transform0014" x="188" y="660" width="188" height="220"/>
+	<SubTexture name="Apollyon Transform0015" x="188" y="660" width="188" height="220"/>
+	<SubTexture name="Apollyon Transform0016" x="188" y="660" width="188" height="220"/>
+</TextureAtlas>

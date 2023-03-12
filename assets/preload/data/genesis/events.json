@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "genesishills",
+		"player1": "chaotix_bf",
+		"player2": "apollyon-pixel",
+		"player3": null,
+		"events": [
+			[
+				47142.8571428572,
+				[
+					[
+						"Play Animation",
+						"Transform",
+						"dad"
+					]
+				]
+			],
+			[
+				47997.3214285714,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"apollyon-pix-mad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "chaotix_gf",
+		"bpm": 140,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "genesis"
+	}
+}

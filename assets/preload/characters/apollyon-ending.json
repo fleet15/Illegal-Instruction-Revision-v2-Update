@@ -1,0 +1,48 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-90,
+				-106
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1
+			],
+			"name": "Trans"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-106
+			],
+			"anim": "smash",
+			"fps": 51,
+			"name": "Trans",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/apollyon-ani",
+	"position": [
+		300,
+		355
+	],
+	"healthicon": "Apollyonfakericon2",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		43,
+		95
+	],
+	"camera_position": [
+		280,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 6.09999999999999
+}

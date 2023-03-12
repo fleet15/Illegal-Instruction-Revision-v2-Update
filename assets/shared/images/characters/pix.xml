@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pix.png">
+<SubTexture name="pix Play0000" x="105" y="141" width="105" height="129" frameX="-422" frameY="-456" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0001" x="0" y="141" width="105" height="131" frameX="-422" frameY="-457" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0002" x="105" y="0" width="105" height="134" frameX="-422" frameY="-461" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0003" x="610" y="0" width="85" height="99" frameX="-442" frameY="-422" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0004" x="168" y="502" width="85" height="101" frameX="-442" frameY="-420" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0005" x="253" y="502" width="85" height="101" frameX="-442" frameY="-420" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0006" x="525" y="0" width="85" height="103" frameX="-442" frameY="-418" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0007" x="525" y="309" width="85" height="102" frameX="-442" frameY="-419" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0008" x="525" y="103" width="85" height="103" frameX="-442" frameY="-417" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0009" x="170" y="395" width="85" height="106" frameX="-442" frameY="-414" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0010" x="610" y="99" width="85" height="99" frameX="-442" frameY="-422" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0011" x="610" y="396" width="85" height="98" frameX="-442" frameY="-423" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0012" x="0" y="604" width="85" height="97" frameX="-442" frameY="-424" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0013" x="525" y="206" width="85" height="103" frameX="-442" frameY="-418" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0014" x="0" y="395" width="85" height="107" frameX="-442" frameY="-413" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0015" x="340" y="395" width="85" height="104" frameX="-442" frameY="-416" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0016" x="338" y="502" width="85" height="101" frameX="-442" frameY="-420" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0017" x="85" y="395" width="85" height="107" frameX="-442" frameY="-413" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0018" x="85" y="604" width="85" height="96" frameX="-442" frameY="-425" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0019" x="255" y="395" width="85" height="106" frameX="-442" frameY="-414" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0020" x="255" y="395" width="85" height="106" frameX="-442" frameY="-414" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0021" x="420" y="232" width="85" height="108" frameX="-442" frameY="-412" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0022" x="610" y="494" width="84" height="98" frameX="-439" frameY="-423" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0023" x="423" y="502" width="84" height="100" frameX="-439" frameY="-421" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0024" x="695" y="0" width="84" height="98" frameX="-439" frameY="-423" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0025" x="695" y="195" width="84" height="96" frameX="-439" frameY="-426" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0026" x="425" y="395" width="84" height="104" frameX="-439" frameY="-417" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0027" x="610" y="198" width="84" height="99" frameX="-439" frameY="-422" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0028" x="507" y="502" width="84" height="100" frameX="-439" frameY="-421" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0029" x="0" y="502" width="84" height="102" frameX="-439" frameY="-419" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0030" x="695" y="98" width="84" height="97" frameX="-439" frameY="-424" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0031" x="420" y="120" width="84" height="112" frameX="-439" frameY="-408" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0032" x="610" y="297" width="84" height="99" frameX="-439" frameY="-422" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0033" x="84" y="502" width="84" height="102" frameX="-439" frameY="-419" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0034" x="420" y="0" width="105" height="120" frameX="-422" frameY="-443" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0035" x="315" y="272" width="105" height="121" frameX="-422" frameY="-445" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0036" x="105" y="272" width="105" height="122" frameX="-422" frameY="-445" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0037" x="0" y="272" width="105" height="123" frameX="-422" frameY="-448" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0038" x="210" y="272" width="105" height="122" frameX="-422" frameY="-448" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0039" x="315" y="125" width="105" height="124" frameX="-422" frameY="-448" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0040" x="315" y="0" width="105" height="125" frameX="-422" frameY="-451" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0041" x="210" y="141" width="105" height="127" frameX="-422" frameY="-453" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0042" x="210" y="0" width="105" height="133" frameX="-422" frameY="-461" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="pix Play0043" x="0" y="0" width="105" height="141" frameX="-422" frameY="-471" frameWidth="1024" frameHeight="1024" />
+</TextureAtlas>

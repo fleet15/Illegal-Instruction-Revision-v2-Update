@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 46,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nick-pixel",
+	"position": [
+		-480,
+		-40
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-200,
+		450
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

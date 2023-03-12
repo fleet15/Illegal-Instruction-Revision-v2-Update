@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Knux idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Knux left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-160,
+				40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Knux down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				40
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Knux up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				70
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Knux right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Chaotix",
+	"position": [
+		30,
+		70
+	],
+	"healthicon": "Chaotix",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		183,
+		249
+	],
+	"camera_position": [
+		-230,
+		-380
+	],
+	"sing_duration": 6.1,
+	"scale": 3.2
+}

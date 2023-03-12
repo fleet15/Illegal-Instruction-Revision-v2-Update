@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-185,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-264,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-255,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-185,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-170,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Weird_Beast",
+	"position": [
+		-110,
+		390
+	],
+	"healthicon": "chaotix-beast-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		148,
+		146,
+		148
+	],
+	"camera_position": [
+		120,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 3.2
+}

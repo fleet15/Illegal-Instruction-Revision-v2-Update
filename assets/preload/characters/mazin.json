@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				49,
+				149
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				74,
+				57
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				52,
+				93
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-20,
+				7
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-20,
+				77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Majinhuman",
+	"position": [
+		-150,
+		-10
+	],
+	"healthicon": "mazin",
+	"flip_x": false,
+	"healthbar_colors": [
+		3,
+		20,
+		121
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 6,
+	"scale": 0.8
+}

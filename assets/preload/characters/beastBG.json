@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1675,
+				-470
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "newtro idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Newtro",
+	"position": [
+		-520,
+		-480
+	],
+	"healthicon": "chaotix-beast-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		148,
+		146,
+		148
+	],
+	"camera_position": [
+		270,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

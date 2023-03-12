@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				371,
+				617
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ApollyonP3 Up"
+		},
+		{
+			"offsets": [
+				524,
+				560
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ApollyonP3 Right"
+		},
+		{
+			"offsets": [
+				534,
+				704
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ApollyonP3 Left"
+		},
+		{
+			"offsets": [
+				440,
+				550
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ApollyonP3 Down"
+		},
+		{
+			"offsets": [
+				639,
+				660
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ApollyonP3 Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ApollyonP3",
+	"position": [
+		240,
+		280
+	],
+	"healthicon": "apollyon",
+	"flip_x": false,
+	"healthbar_colors": [
+		53,
+		51,
+		100
+	],
+	"camera_position": [
+		-840,
+		-625
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

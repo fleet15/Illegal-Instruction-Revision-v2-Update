@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				23,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Laugh",
+			"indices": [],
+			"name": "Dukeanibo Laugh"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-8
+			],
+			"anim": "Idle",
+			"fps": 24,
+			"name": "Dukeanibo Laugh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-6
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dukeanibo Laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dukeanibo",
+	"position": [
+		-20,
+		40
+	],
+	"healthicon": "duke",
+	"flip_x": false,
+	"healthbar_colors": [
+		176,
+		28,
+		40
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

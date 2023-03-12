@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="apollyon-ani.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Trans0000" x="0" y="0" width="87" height="76"/>
+	<SubTexture name="Trans0001" x="0" y="0" width="87" height="76"/>
+	<SubTexture name="Trans0002" x="0" y="0" width="87" height="76"/>
+	<SubTexture name="Trans0003" x="87" y="0" width="87" height="76"/>
+	<SubTexture name="Trans0004" x="87" y="0" width="87" height="76"/>
+	<SubTexture name="Trans0005" x="87" y="0" width="87" height="76"/>
+	<SubTexture name="Trans0006" x="174" y="0" width="87" height="76"/>
+	<SubTexture name="Trans0007" x="174" y="0" width="87" height="76"/>
+	<SubTexture name="Trans0008" x="174" y="0" width="87" height="76"/>
+	<SubTexture name="Trans0009" x="261" y="0" width="87" height="76"/>
+	<SubTexture name="Trans0010" x="261" y="0" width="87" height="76"/>
+	<SubTexture name="Trans0011" x="261" y="0" width="87" height="76"/>
+	<SubTexture name="Trans0012" x="348" y="0" width="87" height="76"/>
+	<SubTexture name="Trans0013" x="348" y="0" width="87" height="76"/>
+	<SubTexture name="Trans0014" x="348" y="0" width="87" height="76"/>
+	<SubTexture name="Trans0015" x="0" y="76" width="87" height="76"/>
+	<SubTexture name="Trans0016" x="0" y="76" width="87" height="76"/>
+	<SubTexture name="Trans0017" x="0" y="76" width="87" height="76"/>
+	<SubTexture name="Trans0018" x="0" y="76" width="87" height="76"/>
+	<SubTexture name="Trans0019" x="0" y="76" width="87" height="76"/>
+	<SubTexture name="Trans0020" x="0" y="76" width="87" height="76"/>
+	<SubTexture name="Trans0021" x="87" y="76" width="87" height="76"/>
+	<SubTexture name="Trans0022" x="87" y="76" width="87" height="76"/>
+	<SubTexture name="Trans0023" x="87" y="76" width="87" height="76"/>
+	<SubTexture name="Trans0024" x="174" y="76" width="87" height="76"/>
+	<SubTexture name="Trans0025" x="174" y="76" width="87" height="76"/>
+	<SubTexture name="Trans0026" x="174" y="76" width="87" height="76"/>
+	<SubTexture name="Trans0027" x="261" y="76" width="87" height="76"/>
+	<SubTexture name="Trans0028" x="261" y="76" width="87" height="76"/>
+	<SubTexture name="Trans0029" x="261" y="76" width="87" height="76"/>
+	<SubTexture name="Trans0030" x="348" y="76" width="87" height="76"/>
+	<SubTexture name="Trans0031" x="348" y="76" width="87" height="76"/>
+	<SubTexture name="Trans0032" x="348" y="76" width="87" height="76"/>
+	<SubTexture name="Trans0033" x="0" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0034" x="0" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0035" x="0" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0036" x="0" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0037" x="0" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0038" x="0" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0039" x="0" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0040" x="0" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0041" x="0" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0042" x="87" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0043" x="87" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0044" x="87" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0045" x="174" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0046" x="174" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0047" x="174" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0048" x="261" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0049" x="261" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0050" x="261" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0051" x="261" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0052" x="261" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0053" x="261" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0054" x="261" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0055" x="261" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0056" x="261" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0057" x="261" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0058" x="261" y="152" width="87" height="76"/>
+	<SubTexture name="Trans0059" x="261" y="152" width="87" height="76"/>
+</TextureAtlas>

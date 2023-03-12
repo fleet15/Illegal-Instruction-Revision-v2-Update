@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				220,
+				-190
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				190,
+				-320
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				143,
+				-334
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				210,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				190,
+				-310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Espio",
+	"position": [
+		-1000,
+		10
+	],
+	"healthicon": "espio",
+	"flip_x": false,
+	"healthbar_colors": [
+		29,
+		26,
+		43
+	],
+	"camera_position": [
+		170,
+		440
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

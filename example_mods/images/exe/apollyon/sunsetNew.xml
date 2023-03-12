@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sunsetNew.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lava0000" x="0" y="0" width="918" height="276"/>
+	<SubTexture name="lava0001" x="0" y="0" width="918" height="276"/>
+	<SubTexture name="lava0002" x="0" y="0" width="918" height="276"/>
+	<SubTexture name="lava0003" x="918" y="0" width="918" height="276"/>
+	<SubTexture name="lava0004" x="918" y="0" width="918" height="276"/>
+	<SubTexture name="lava0005" x="918" y="0" width="918" height="276"/>
+	<SubTexture name="lava0006" x="0" y="276" width="918" height="276"/>
+	<SubTexture name="lava0007" x="0" y="276" width="918" height="276"/>
+	<SubTexture name="lava0008" x="0" y="276" width="918" height="276"/>
+	<SubTexture name="lava0009" x="918" y="276" width="918" height="276"/>
+	<SubTexture name="lava0010" x="918" y="276" width="918" height="276"/>
+	<SubTexture name="lava0011" x="918" y="276" width="918" height="276"/>
+	<SubTexture name="lava0012" x="0" y="552" width="918" height="276"/>
+	<SubTexture name="lava0013" x="0" y="552" width="918" height="276"/>
+	<SubTexture name="lava0014" x="0" y="552" width="918" height="276"/>
+	<SubTexture name="lava0015" x="918" y="552" width="918" height="276"/>
+	<SubTexture name="lava0016" x="918" y="552" width="918" height="276"/>
+	<SubTexture name="lava0017" x="918" y="552" width="918" height="276"/>
+	<SubTexture name="lava0018" x="0" y="276" width="918" height="276"/>
+	<SubTexture name="lava0019" x="0" y="276" width="918" height="276"/>
+	<SubTexture name="lava0020" x="0" y="276" width="918" height="276"/>
+	<SubTexture name="lava0021" x="0" y="828" width="918" height="276"/>
+	<SubTexture name="lava0022" x="0" y="828" width="918" height="276"/>
+	<SubTexture name="lava0023" x="0" y="828" width="918" height="276"/>
+	<SubTexture name="lava0024" x="0" y="0" width="918" height="276"/>
+	<SubTexture name="lava0025" x="0" y="0" width="918" height="276"/>
+	<SubTexture name="lava0026" x="0" y="0" width="918" height="276"/>
+	<SubTexture name="lava0027" x="918" y="0" width="918" height="276"/>
+	<SubTexture name="lava0028" x="918" y="0" width="918" height="276"/>
+	<SubTexture name="lava0029" x="918" y="0" width="918" height="276"/>
+	<SubTexture name="lava0030" x="918" y="828" width="918" height="276"/>
+	<SubTexture name="lava0031" x="918" y="828" width="918" height="276"/>
+	<SubTexture name="lava0032" x="918" y="828" width="918" height="276"/>
+	<SubTexture name="lava0033" x="0" y="1104" width="918" height="276"/>
+	<SubTexture name="lava0034" x="0" y="1104" width="918" height="276"/>
+	<SubTexture name="lava0035" x="0" y="1104" width="918" height="276"/>
+	<SubTexture name="lava0036" x="918" y="1104" width="918" height="276"/>
+	<SubTexture name="lava0037" x="918" y="1104" width="918" height="276"/>
+	<SubTexture name="lava0038" x="918" y="1104" width="918" height="276"/>
+	<SubTexture name="lava0039" x="918" y="0" width="918" height="276"/>
+	<SubTexture name="lava0040" x="918" y="0" width="918" height="276"/>
+	<SubTexture name="lava0041" x="918" y="0" width="918" height="276"/>
+	<SubTexture name="lava0042" x="0" y="1380" width="918" height="276"/>
+	<SubTexture name="lava0043" x="0" y="1380" width="918" height="276"/>
+	<SubTexture name="lava0044" x="0" y="1380" width="918" height="276"/>
+	<SubTexture name="lava0045" x="0" y="828" width="918" height="276"/>
+	<SubTexture name="lava0046" x="0" y="828" width="918" height="276"/>
+	<SubTexture name="lava0047" x="0" y="828" width="918" height="276"/>
+</TextureAtlas>

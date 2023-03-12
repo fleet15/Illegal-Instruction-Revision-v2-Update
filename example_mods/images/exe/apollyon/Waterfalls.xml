@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Waterfalls.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="waterfalls BloodFalls0000" x="0" y="0" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0001" x="0" y="0" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0002" x="0" y="0" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0003" x="0" y="0" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0004" x="0" y="0" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0005" x="0" y="0" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0006" x="0" y="0" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0007" x="664" y="0" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0008" x="664" y="0" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0009" x="664" y="0" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0010" x="664" y="0" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0011" x="664" y="0" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0012" x="664" y="0" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0013" x="664" y="0" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0014" x="1328" y="0" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0015" x="1328" y="0" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0016" x="1328" y="0" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0017" x="1328" y="0" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0018" x="1328" y="0" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0019" x="1328" y="0" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0020" x="1328" y="0" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0021" x="0" y="634" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0022" x="0" y="634" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0023" x="0" y="634" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0024" x="0" y="634" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0025" x="0" y="634" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0026" x="0" y="634" width="664" height="634"/>
+	<SubTexture name="waterfalls BloodFalls0027" x="0" y="634" width="664" height="634"/>
+</TextureAtlas>

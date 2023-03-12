@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1612,
+				-492
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1722,
+				-470
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1678,
+				-473
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1653,
+				-470
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1675,
+				-470
+			],
+			"indices": [],
+			"fps": 6,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/beastFp",
+	"position": [
+		350,
+		-130
+	],
+	"healthicon": "chaotix-beast-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		148,
+		146,
+		148
+	],
+	"camera_position": [
+		570,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 2.1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				340,
+				27
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				82,
+				171
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				-168
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down Pose",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Apollyon",
+	"position": [
+		-210,
+		20
+	],
+	"healthicon": "Apollyon3icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		41,
+		52
+	],
+	"camera_position": [
+		340,
+		260
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

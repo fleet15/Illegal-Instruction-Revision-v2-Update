@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-185,
+				80
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-186,
+				80
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-199,
+				80
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-179,
+				80
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				80
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-184,
+				80
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "transformation",
+			"loop": false,
+			"name": "transform"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Chaotixxx",
+	"position": [
+		-110,
+		310
+	],
+	"healthicon": "chaotix-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		214,
+		25,
+		82
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 3.2
+}

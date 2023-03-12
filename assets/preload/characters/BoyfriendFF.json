@@ -1,0 +1,156 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				151
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF HYPED idle dance"
+		},
+		{
+			"offsets": [
+				110,
+				179
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "BF HYPED NOTE LEFT"
+		},
+		{
+			"offsets": [
+				-16,
+				145
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "BF HYPED NOTE RIGHT"
+		},
+		{
+			"offsets": [
+				-50,
+				247
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "BF HYPED NOTE UP"
+		},
+		{
+			"offsets": [
+				-40,
+				118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "BF HYPED NOTE DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				178
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF Hey!",
+			"indices": []
+		},
+		{
+			"offsets": [
+				5,
+				161
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "scared",
+			"loop": true,
+			"name": "BF idle shaking"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HyperBF",
+	"position": [
+		-50,
+		370
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		140,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

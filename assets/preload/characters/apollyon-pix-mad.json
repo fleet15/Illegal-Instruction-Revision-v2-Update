@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Apollyon P2 Idle"
+		},
+		{
+			"offsets": [
+				-8,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Apollyon P2 Down"
+		},
+		{
+			"offsets": [
+				-6,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Apollyon P2 Up"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Apollyon P2 Left"
+		},
+		{
+			"offsets": [
+				-26,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Apollyon P2 Right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Apollyon_p2_sprites",
+	"position": [
+		300,
+		355
+	],
+	"healthicon": "Apollyonfakericon2",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		43,
+		95
+	],
+	"camera_position": [
+		280,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

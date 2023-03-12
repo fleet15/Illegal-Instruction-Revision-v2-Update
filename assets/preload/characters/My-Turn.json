@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-290
+			],
+			"anim": "Ending",
+			"fps": 24,
+			"name": "Hedge-ani ending",
+			"indices": []
+		},
+		{
+			"offsets": [
+				81,
+				-260
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Hedge-ani ending"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hedge-ani",
+	"position": [
+		0,
+		-60
+	],
+	"healthicon": "hog",
+	"flip_x": false,
+	"healthbar_colors": [
+		29,
+		24,
+		206
+	],
+	"camera_position": [
+		-530,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

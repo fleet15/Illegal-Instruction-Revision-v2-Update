@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				81,
+				-260
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Hedge-ani Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-270
+			],
+			"anim": "Ending",
+			"fps": 24,
+			"name": "Hedge-ani ending",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				-260
+			],
+			"anim": "Watch",
+			"fps": 24,
+			"name": "Hedge-ani watch",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hedge-ani",
+	"position": [
+		0,
+		-60
+	],
+	"healthicon": "hog",
+	"flip_x": false,
+	"healthbar_colors": [
+		29,
+		24,
+		206
+	],
+	"camera_position": [
+		-530,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

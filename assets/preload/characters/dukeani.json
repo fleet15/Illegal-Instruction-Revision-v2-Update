@@ -1,0 +1,108 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-110
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "DukeEncoreAni Glitch",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-140
+			],
+			"anim": "Scream",
+			"fps": 24,
+			"name": "DukeEncoreAni Ah",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Laugh",
+			"fps": 12,
+			"name": "DukeEncoreAni Laugh",
+			"indices": [
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99
+			],
+			"name": "DukeEncoreAni Laugh"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99
+			],
+			"name": "DukeEncoreAni Laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DukeEncoreAni",
+	"position": [
+		-180,
+		-170
+	],
+	"healthicon": "duke2",
+	"flip_x": false,
+	"healthbar_colors": [
+		77,
+		7,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "apollyon",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"apollyon",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"genesis",
+			"apollyon",
+			[
+				0,
+				0,
+				113
+			]
+		],
+		[
+			"perdition",
+			"apollyon",
+			[
+				6,
+				0,
+				35
+			]
+		],
+		[
+			"corinthians",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "apollyon",
+	"hiddenUntilUnlocked": false
+}
